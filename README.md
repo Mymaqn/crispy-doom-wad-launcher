@@ -11,6 +11,7 @@ You can create a shortcut for launcher.bat somewhere if you don't want to go int
 
 # Manual config set up
 If you have WADs scattered over multiple setups you might want to do some manual configuration. Open launcher.cfg in a text editor. Then add your WADs manually. The syntax is as follows:
+
 nameForWAD;PathForWAD
 
 # Screenshot of WAD launcher
