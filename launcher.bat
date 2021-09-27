@@ -1,0 +1,1 @@
+START powershell.exe -windowstyle hidden .\gui.ps1
