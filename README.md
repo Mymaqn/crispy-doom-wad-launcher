@@ -14,4 +14,4 @@ If you have WADs scattered over multiple setups you might want to do some manual
 nameForWAD;PathForWAD
 
 # Screenshot of WAD launcher
-
+![Launcher_screenshot](https://raw.githubusercontent.com/Mymaqn/crispy-doom-wad-launcher/main/Screenshots/WAD_launcher1.png)
