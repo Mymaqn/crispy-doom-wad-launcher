@@ -5,8 +5,8 @@ A very simplistic WAD launcher for Crispy Doom
 Powershell
 
 # Installation
-Copy the gui.ps1 script along with launcher.bat into your Crispy doom folder
-Then run launcher.bat, which will take you through a first time set up, where you get to choose the location of all you WADs
+Copy the gui.ps1 script along with launcher.bat into your Crispy doom folder, then run launcher.bat, which will take you through a first time set up, where you get to choose the location of all you WADs.
+
 You can create a shortcut for launcher.bat somewhere if you don't want to go into the folder to run Crispy Doom every time.
 
 # Manual config set up
